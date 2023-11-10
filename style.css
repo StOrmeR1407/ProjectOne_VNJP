@@ -1,0 +1,57 @@
+body{
+    font-family: 'Mulish' , sans-serif;
+}
+
+.m-navbar{
+    left:100px;
+    right:100px;
+    }
+
+.hr-text{
+    border: 1px solid #000000;
+    width: 50px;
+    background-color: #000000;
+    height: 2px;
+}
+
+.img-card{
+    width: 65px;
+    height: 80px;
+}
+
+.wid-85{
+    width: 85%;
+}
+
+.btn-custom:hover{
+    background:#458ff6;
+}
+
+.bg-custom{
+    background:#5ea7f2;
+}
+
+.m-100{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.p-50{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.hr-text-light{
+    border: 1px solid #ffffff;
+    width: 50px;
+    background-color: #ffffff;
+    height: 2px;
+}
+
+.bg-footer{
+    background-image: linear-gradient(#66bff3, #5a98f2);
+}
+
+.bg-customer{
+    background: #458ff6;
+}
