@@ -524,3 +524,8 @@ body{
 .text-center{
     text-align: center;
 }
+
+.customer__image{
+    border: 5px solid white;
+    border-radius: 70px;
+}
